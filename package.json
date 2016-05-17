@@ -1,12 +1,12 @@
 {
   "name": "zenpare.com",
   "version": "1.0.0",
-  "description": "",
+  "description": "zenpare static",
   "main": "index.js",
   "scripts": {
     "gh-pages": "gh-pages -d dist"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alex Chan <alexander.m.chan@gmail.com>",
-  "license": "ISC"
+  "license": "(c)Alex Chan 2016"
 }
